@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lista anidada</title>
+</head>
+<body>
+    <div><h1>
+        <ul>
+            <li>Inicio</li>
+            <li>Sobre mí</li>
+            <li>servicios</li>
+            <ul>
+                <li>Fontaneria</li>
+                <li>Electricidad</li>
+                <li>Pintura</li>
+                <ul>
+                    <li>Parking</li>
+                    <li>Trabajo en altura</li>
+                    <li>Domicilio privado</li>
+                </ul>
+            </ul>
+            <li>Testimonio</li>
+            <li>Contrato</li>
+        </ul></h1>
+    </div>
+</body>
+</html>
